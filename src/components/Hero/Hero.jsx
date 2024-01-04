@@ -49,13 +49,12 @@ const Hero = () => {
               <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold">
                 Welcome{" "}
                 <span class="bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary">
-                  Foodie
+                  Henrry
                 </span>{" "}
-                Zone
+                Food
               </h1>
               <p className="text-sm ">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-                reiciendis inventore iste ratione ex alias quis magni at optio
+              HenryFood brings you dishes with great flavors. The variety of dishes and the freshness of the food will definitely satisfy you.
               </p>
               <div>
                 <button className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full">
